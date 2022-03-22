@@ -8,5 +8,5 @@ Continuação de projeto introdutório para Python:
 * Funcionalidades de carregamento de lista de fornecedores, adição de novos cadastros, deleção de cadastros, busca por nome, telefone ou e-mail, exibição da lista completa e edição de dados de contato.
 
 
-*Instruções: executar **main.py** *
+*Instruções: executar **main.py** *<br>
 *Obs.: Em caso de erros, verificar instalação da lib "prettytable"*
