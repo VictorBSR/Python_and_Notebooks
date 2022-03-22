@@ -6,3 +6,7 @@ Continuação de projeto introdutório para Python:
 * O usuário tem a opção de ler um CSV desorganizado, o qual têm seus dados de contato (nome, telefone e e-mail) reorganizados e automaticamente carregados na agenda
 * Alternativamente, há a opção de criar uma agenda do zero
 * Funcionalidades de carregamento de lista de fornecedores, adição de novos cadastros, deleção de cadastros, busca por nome, telefone ou e-mail, exibição da lista completa e edição de dados de contato.
+
+
+*Instruções: executar **main.py** *
+*Obs.: Em caso de erros, verificar instalação da lib "prettytable"*
